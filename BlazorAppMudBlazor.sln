@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppMudBlazor", "BlazorAppMudBlazor\BlazorAppMudBlazor.csproj", "{7204DB59-71D5-4B46-9F30-8C2DE55D0E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppMudBlazor.Client", "BlazorAppMudBlazor.Client\BlazorAppMudBlazor.Client.csproj", "{313AE117-7E4B-413F-9584-6FC09378DCE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7204DB59-71D5-4B46-9F30-8C2DE55D0E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7204DB59-71D5-4B46-9F30-8C2DE55D0E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7204DB59-71D5-4B46-9F30-8C2DE55D0E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7204DB59-71D5-4B46-9F30-8C2DE55D0E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{313AE117-7E4B-413F-9584-6FC09378DCE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313AE117-7E4B-413F-9584-6FC09378DCE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313AE117-7E4B-413F-9584-6FC09378DCE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313AE117-7E4B-413F-9584-6FC09378DCE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F3796F-2B34-4731-9406-25BAAA591829}
+	EndGlobalSection
+EndGlobal
